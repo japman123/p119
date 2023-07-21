@@ -1,0 +1,14 @@
+body
+{
+background: darkcyan;
+}
+
+#title, #guess, #confidence
+{
+    color: whitesmoke;
+}
+
+#timer, #score
+{
+    margin-left: 40px;
+}
